@@ -11,7 +11,7 @@ This project aims to compare vascular Image Derived Phenotypes (IDPs) from diffe
 - Required packages are listed in `requirements.txt`
 
 ## Configuration
-Create a `.env` file in the `/VasculatureMultiOrgan` directory with the variables specified in the `example_conf_file.py`.
+Create a `.env` file in the `/VasculatureMultiOrgan` directory with the variables specified in the `env.exampe`.
 
 ## Project Structure
 ``` 
