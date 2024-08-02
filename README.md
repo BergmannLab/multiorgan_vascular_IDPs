@@ -1,7 +1,7 @@
 # UKBB Vascular Image Derived Phenotypes (IDPs) Across Different Organs
 
 ## Project Description
-This project aims to compare vascular Image Derived Phenotypes (IDPs) from different organs using UKBiobank data. It includes both phenotypic and genetic analyses:
+This project aims to compare vascular image-derived phenotypes (IDPs) from different organs using UKBiobank data. It includes both phenotypic and genetic analyses:
 
 - **Phenotypic Analysis**: Filters data by the first visit, computes the residuals of each IDP with respect to covariates, and plots the correlations of these residuals.
 - **Genetic Analysis**: Uses individual phenotypic-pair correlations (previously computed using LDSR) to plot genetic correlations across multiple phenotypes. Additionally, it examines the number of significant genes and pathways shared among the phenotypes using individual phenotypic genes and pathways (previously computed using PascalX), with corresponding plots.
