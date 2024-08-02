@@ -1,0 +1,30 @@
+﻿organ,IDP_name,used_file,main_IDP,sample_size_rounded,sample_size_expanded,link
+brain_vessel,WMH total volume,1437,TRUE,33k,NaN,https://open.win.ox.ac.uk/ukbiobank/big40/
+brain_vessel,WMH total volume2,IDP_T2_FLAIR_BIANCA_WMH_volume,FALSE,8k,NaN,https://www.fmrib.ox.ac.uk/ukbiobank/gwas_resources/index.html
+brain_vessel,WMH pvent adj volume,pvent_adj_vol,FALSE,8k,NaN,https://www.fmrib.ox.ac.uk/ukbiobank/gwas_resources/index.html
+brain_vessel,WMH deep adj volume,deep_adj_vol,FALSE,8k,NaN,https://www.fmrib.ox.ac.uk/ukbiobank/gwas_resources/index.html
+brain_vessel,Brain mean vessel intensity (L),1351,FALSE,33k,NaN,https://open.win.ox.ac.uk/ukbiobank/big40/
+brain_vessel,Brain mean vessel intensity (R),1365,FALSE,33k,NaN,https://open.win.ox.ac.uk/ukbiobank/big40/
+brain_vessel,Brain vessel volume (L),0203,TRFALSEUE,33k,NaN,https://open.win.ox.ac.uk/ukbiobank/big40/
+brain_vessel,Brain vessel volume (R),0220,FALSE,33k,NaN,https://open.win.ox.ac.uk/ukbiobank/big40/
+IMT,Min carotid IMT,GCST90100572_buildGRCh37_modified.tsv,TRUE,45k,"43775 European, 612 Asian unspecified, 291 African unspecified, 215 Other admixed ancestry, 292 NR",http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90100001-GCST90101000/GCST90100572/
+IMT,Mean carotid IMT,GCST90100573_buildGRCh37_modified.tsv,NO,45k,"43776 European, 612 Asian unspecified, 291 African unspecified, 215 Other admixed ancestry, 292 NR",http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90100001-GCST90101000/GCST90100573/
+IMT,Max carotid IMT,GCST90100574_buildGRCh37_modified.tsv,NO,45k,"43777 European, 612 Asian unspecified, 291 African unspecified, 215 Other admixed ancestry, 292 NR",http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90100001-GCST90101000/GCST90100574/
+IMT,Carotid IMT,GCST90100575_buildGRCh37_modified.tsv,FALSE,45k,"43778 European, 612 Asian unspecified, 291 African unspecified, 215 Other admixed ancestry, 292 NR",http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90100001-GCST90101000/GCST90100575/
+IMT,Min carotid IMT ss1,GCST90100577_buildGRCh37_modified.tsv,FALSE,22k,"21123 European, 356 Asian unspecified, 291 African unspecified, 215 Other admixed ancestry, 292 NR",http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90100001-GCST90101000/GCST90100577/
+IMT,Min carotid IMT ss2,GCST90100578_buildGRCh37_modified.tsv,FALSE,23k,"22652 European, 256 Asian unspecified, 153 African unspecified, 138 Other admixed ancestry, 159 NR",http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90100001-GCST90101000/GCST90100578/
+IMT,Mean carotid IMT ss1,GCST90100579_buildGRCh37_modified.tsv,FALSE,22k,"21123 European, 356 Asian unspecified, 291 African unspecified, 215 Other admixed ancestry, 292 NR",http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90100001-GCST90101000/GCST90100579/
+IMT,Mean carotid IMT ss2,GCST90100580_buildGRCh37_modified.tsv,FALSE,23k,"22652 European, 256 Asian unspecified, 153 African unspecified, 138 Other admixed ancestry, 159 NR",http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90100001-GCST90101000/GCST90100580/
+IMT,Max carotid IMT ss1,GCST90100581_buildGRCh37_modified.tsv,FALSE,22k,"21123 European, 356 Asian unspecified, 291 African unspecified, 215 Other admixed ancestry, 292 NR",http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90100001-GCST90101000/GCST90100581/
+IMT,Max carotid IMT ss2,GCST90100582_buildGRCh37_modified.tsv,FALSE,23k,"22652 European, 256 Asian unspecified, 153 African unspecified, 138 Other admixed ancestry, 159 NR",http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90100001-GCST90101000/GCST90100582/
+aortic,Asc aorta distensibility,AAdis_model1_bolt_P_BOLT_LMM_INF_modified.csv,TRUE,34k,NaN,https://data.hpc.imperial.ac.uk/resolve/?doi=10654
+aortic,Asc aorta max area,AAmax_model1_bolt_P_BOLT_LMM_INF_modified.csv,NO,37k,NaN,https://data.hpc.imperial.ac.uk/resolve/?doi=10654
+aortic,Asc aorta max area linear,AAmax_model1_bolt_P_LINREG_modified.csv,FALSE,37k,NaN,https://data.hpc.imperial.ac.uk/resolve/?doi=10654
+aortic,Asc aorta min area,AAmin_model1_bolt_P_BOLT_LMM_INF_modified.csv,TRUE,37k,NaN,https://data.hpc.imperial.ac.uk/resolve/?doi=10654
+aortic,Asc aorta min area linear,AAmin_model1_bolt_P_LINREG_modified.csv,FALSE,37k,NaN,https://data.hpc.imperial.ac.uk/resolve/?doi=10654
+aortic,Desc aorta distensibility,DAdis_model1_bolt_P_BOLT_LMM_INF_modified.csv,TRUE,34k,NaN,https://data.hpc.imperial.ac.uk/resolve/?doi=10654
+aortic,Desc aorta distensibility linear,DAdis_model1_bolt_P_LINREG_modified.csv,FALSE,34k,NaN,https://data.hpc.imperial.ac.uk/resolve/?doi=10654
+aortic,Desc aorta max area,DAmax_model1_bolt_P_BOLT_LMM_INF_modified.csv,NO,37k,NaN,https://data.hpc.imperial.ac.uk/resolve/?doi=10654
+aortic,Desc aorta max area linear,DAmax_model1_bolt_P_LINREG_modified.csv,FALSE,37k,NaN,https://data.hpc.imperial.ac.uk/resolve/?doi=10654
+aortic,Desc aorta min area,DAmin_model1_bolt_P_BOLT_LMM_INF_modified.csv,TRUE,37k,NaN,https://data.hpc.imperial.ac.uk/resolve/?doi=10654
+aortic,Desc aorta min area linear,DAmin_model1_bolt_P_LINREG_modified.csv,FALSE,37k,NaN,https://data.hpc.imperial.ac.uk/resolve/?doi=10654
